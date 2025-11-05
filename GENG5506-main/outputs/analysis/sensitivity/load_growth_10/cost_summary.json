@@ -1,0 +1,21 @@
+{
+  "currency": "AUD",
+  "npc_total": 561507792.7037781,
+  "initial_capex": 310829090.90909094,
+  "pv_capex": 52509090.90909091,
+  "wind_capex": 117320000.00000001,
+  "storage_capex": 96000000.0,
+  "generator_capex": 45000000.0,
+  "present_value_annual_costs": 238320725.04821348,
+  "storage_replacement_present_cost": 12357976.746473651,
+  "annual_cost": 22325594.54529643,
+  "lcoe_per_mwh": 89.73937741800084,
+  "renewable_penetration": 0.8384172063230889,
+  "pv_panel_count": 181818.18181818182,
+  "pv_land_area_m2": 363636.36363636365,
+  "pv_capex_per_kw": 656.3636363636364,
+  "wind_capex_per_kw": 2428.985507246377,
+  "curtailed_energy_mwh": 75650.87545152423,
+  "annual_curtailment_cost": 3782543.7725762115,
+  "curtailment_cost_per_mwh": 50.0
+}

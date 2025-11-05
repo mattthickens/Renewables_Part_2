@@ -1,0 +1,38 @@
+{
+  "pv": {
+    "panel_count": 272727,
+    "total_area_m2": 545454.5454545454,
+    "capex_aud": 78763636.36363636,
+    "annual_opex_aud": 2400000.0
+  },
+  "wind": {
+    "turbine_count": 12,
+    "total_capacity_kw": 41400,
+    "capex_aud": 100560000.0,
+    "annual_opex_aud": 2070000.0
+  },
+  "battery_storage": {
+    "unit_name": "Tesla Megapack 2XL",
+    "unit_energy_mwh": 3.9,
+    "unit_power_mw": 1.9,
+    "unit_count": 0,
+    "total_energy_mwh": 0.0,
+    "total_power_mw": 0.0,
+    "capex_aud": 0.0,
+    "annual_opex_aud": 0.0
+  },
+  "pumped_hydro": {
+    "total_energy_mwh": 960.0,
+    "total_power_mw": 120.0,
+    "capex_aud": 28800000.0,
+    "annual_opex_aud": 384000.0
+  },
+  "generator": {
+    "unit_name": "Diesel Generator",
+    "unit_capacity_kw": 5000.0,
+    "unit_count": 10,
+    "total_capacity_kw": 50000.0,
+    "capex_aud": 45000000.0,
+    "annual_opex_aud": 1000000.0
+  }
+}
